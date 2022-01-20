@@ -10,7 +10,8 @@
 <h3>index.jsp</h3>
 <a href="customer/notice.do">게시판</a>
 <h4>홍길동</h4>
-안녕하세여
+안녕하세요
+게시판입니다
 
 </body>
 </html>
