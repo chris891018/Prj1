@@ -9,6 +9,7 @@
 <body>
 <h3>index.jsp</h3>
 <a href="customer/notice.do">게시판</a>
+<h4>홍길동</h4>
 
 </body>
 </html>
