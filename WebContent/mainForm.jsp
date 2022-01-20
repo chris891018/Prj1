@@ -16,6 +16,7 @@
 </head>
 <body>
 <h3>mainForm.jsp</h3>
+<h4>메인폼입니다</h4>
 
 <b> <font size="3" color="skyblue">메인화면입니다.</font></b> <br /><br />
 <%
